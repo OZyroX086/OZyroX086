@@ -60,19 +60,6 @@ Building high-performance, production-ready Minecraft plugins with clean archite
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=OZyroX&show_icons=true&theme=github_dark&hide_border=true&count_private=true"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OZyroX&layout=compact&theme=github_dark&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=OZyroX&theme=github-dark-blue&hide_border=true" alt="GitHub Streak"/>
-</p>
-
----
-
 ## 🎯 Current Focus
 
 - 🚀 High-performance Minecraft plugin architecture
