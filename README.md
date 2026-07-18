@@ -1,3 +1,7 @@
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=08ceff&color2=4B5563&section=header"/>
+</p>
+
 <div align="center">
 
 # 👋 Hi, I'm Amir
@@ -79,3 +83,7 @@ Building high-performance, production-ready Minecraft plugins with clean archite
 ### Thanks for visiting ❤️
 
 </div>
+
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=08ceff&color2=4B5563&section=footer"/>
+</p>
